@@ -1,5 +1,7 @@
 # dashboard_2
 
+![](https://github.com/briandsmth/MarketingApp-Dashboard-Flutter/blob/main/demo.gif)
+
 A new Flutter project.
 
 ## Getting Started
