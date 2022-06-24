@@ -1,4 +1,4 @@
-# dashboard_2
+# Marketing dashboard
 
 ![](https://github.com/briandsmth/MarketingApp-Dashboard-Flutter/blob/main/demo.gif)
 
